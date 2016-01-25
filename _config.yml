@@ -1,0 +1,14 @@
+layout_spectrum: 0.8636075
+typography_spectrum: 0.8164112
+color:
+  saturation: 0.5193341
+  lightness: 0.6439313
+  brandStrength: 0.2179347
+  brandColors:
+    - '#F2F2F2'
+    - '#030201'
+    - '#E0BE7F'
+    - '#5B544A'
+    - '#312F27'
+  rhythmicContrast: 1
+name: Craig Farr
