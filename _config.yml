@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 color:
   saturation: 0.5193341
   brandStrength: 0.8931257
-  lightness: 0.6439313
+  rhythmicContrast: 1
   brandColors:
     - '#322E2F'
     - '#C8C7C7'
     - '#B5995C'
     - '#6E5342'
     - '#3A913A'
-  rhythmicContrast: 1
-typography_spectrum: 0.5247046
+  lightness: 0.6439313
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 1
+typography_spectrum: 0.5247046
 name: Craig Farr
