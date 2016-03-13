@@ -1,3 +1,7 @@
+name: Craig Farr
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5247046
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5247046
+title: Composer + Percussionist
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.283029
-  brandStrength: 0.8931257
-  lightness: 0.6267455
   brandColors:
     - '#322E2F'
     - '#C8C7C7'
     - '#B5995C'
     - '#6E5342'
     - '#3A913A'
+  brandStrength: 0.8931257
+  lightness: 0.6267455
+  saturation: 0.283029
   rhythmicContrast: 1
-layout_spectrum: 1
-name: Craig Farr
+purpose: []
