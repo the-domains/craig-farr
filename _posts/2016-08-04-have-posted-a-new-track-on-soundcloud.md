@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Have posted a new track on Soundcloud '
-datePublished: '2016-08-04T16:11:31.324Z'
-dateModified: '2016-08-04T16:11:18.817Z'
+datePublished: '2016-08-04T16:13:58.102Z'
+dateModified: '2016-08-04T16:13:49.520Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-04-have-posted-a-new-track-on-soundcloud.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-04-have-posted-a-new-track-on-soundcloud.md
 url: have-posted-a-new-track-on-soundcloud/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1eae5b2-a230-4d24-b8a9-2265a18e4b65.jpg)
+
 Have posted a new track on Soundcloud 
 
 https://soundcloud.com/craig-farr/after-dusk-before-dawn
