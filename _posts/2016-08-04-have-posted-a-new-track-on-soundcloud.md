@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Have posted a new track on Soundcloud '
-datePublished: '2016-08-04T16:13:58.102Z'
-dateModified: '2016-08-04T16:13:49.520Z'
+datePublished: '2016-08-04T16:16:05.322Z'
+dateModified: '2016-08-04T16:14:13.395Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-04-have-posted-a-new-track-on-soundcloud.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: have-posted-a-new-track-on-soundcloud/index.html
 _type: Article
 
